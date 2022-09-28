@@ -2,7 +2,6 @@
 
 A former Foreign Language Instructor, now a Full Stack Software Engineer, I enjoy studying human and programming languages, love solving problems and effectively communicate with both - people and computers. I'm a lifelong learner and an inquisitive programmer!
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning learning React Native and revising Rails and React 
 - 💬 Ask me about web development 
 - ⚡ Fun fact: I'm passionate about travelling and studied abroad as a finalist of a student-exchange program. 
