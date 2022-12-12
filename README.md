@@ -1,4 +1,4 @@
-### Hi there 👋! I am Kristina.
+### Hi there 👋! I am Kristina
 
 A former Foreign Language Instructor, now a Full Stack Software Engineer, I enjoy studying human and programming languages, love solving problems and effectively communicate with both - people and computers!
 
